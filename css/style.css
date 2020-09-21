@@ -419,11 +419,10 @@ td, th, table caption, table td, table th {
 }
 
 #settings-container {
-  background: var(--tertiary-color);
-  top: 0;
-  position: relative;
-  right: 50%;
-  margin: 3rem auto 10rem auto
+  background: none;
+  top: 1px;
+  right: 1px;
+  position: absolute;
 }
 
 #sans-font, #dark-mode {
