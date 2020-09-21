@@ -423,6 +423,7 @@ td, th, table caption, table td, table th {
   top: 0;
   position: relative;
   right: 50%;
+  margin: 3rem auto 10rem auto
 }
 
 #sans-font, #dark-mode {
