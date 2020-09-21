@@ -420,9 +420,9 @@ td, th, table caption, table td, table th {
 
 #settings-container {
   background: none;
-  bottom: 1px;
-  left: 45%;
-  position: absolute;
+  top: 0;
+  right: 0;
+  position: fixed;
 }
 
 #sans-font, #dark-mode {
