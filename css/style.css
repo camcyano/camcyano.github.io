@@ -420,8 +420,8 @@ td, th, table caption, table td, table th {
 
 #settings-container {
   background: none;
-  top: 1px;
-  right: 1px;
+  bottom: 1px;
+  left: 45%;
   position: absolute;
 }
 
