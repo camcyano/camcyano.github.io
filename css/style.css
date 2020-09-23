@@ -8,11 +8,11 @@
 @media all and (max-width:640px) {body {font-size: 16px}}
 @media all and (max-width:600px) {body {font-size: 15px}}
 @media all and (max-width:560px) {body {font-size: 14px}}
-@media all and (max-width:520px) {body {font-size: 13px}}
-@media all and (max-width:400px) {body {font-size: 12px}}
-@media all and (max-width:360px) {body {font-size: 11px}}
-@media all and (max-width:330px) {body {font-size: 10px}}
-@media all and (max-width:300px) {body {font-size: 9px}}
+@media all and (max-width:520px) {body {font-size: 14px}}
+@media all and (max-width:400px) {body {font-size: 14px}}
+@media all and (max-width:360px) {body {font-size: 14px}}
+@media all and (max-width:330px) {body {font-size: 14px}}
+@media all and (max-width:300px) {body {font-size: 14px}}
  
 /* general */
 :root {
@@ -422,7 +422,7 @@ td, th, table caption, table td, table th {
   background: none;
   top: 0;
   right: 0;
-  position: relative;
+  position: absolute;
 }
 
 #sans-font, #dark-mode {
