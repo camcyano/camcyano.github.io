@@ -422,7 +422,7 @@ td, th, table caption, table td, table th {
   background: none;
   top: 0;
   right: 0;
-  position: fixed;
+  position: relative;
 }
 
 #sans-font, #dark-mode {
